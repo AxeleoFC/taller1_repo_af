@@ -6,6 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		System.out.println("Primer proyecto");
+		System.out.println("Segundo comentario del proyecto");
 	}
 
 }
